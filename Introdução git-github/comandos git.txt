@@ -1,0 +1,23 @@
+dir (windows) ls(linux) - ver as pastas do diretorio que estamos
+cd - navegar
+cd .. - retroceder para 1 pasta anterior
+cls (windows) clear(linux) - limpa o terminal
+mkdir (nome escolhido)(windows) - criar uma pasta
+echo (texto) > "nome_do_arquivo".txt - cria um arquio texto com o texto digitado
+del (diretorio)- deleta 
+rmdir (nome) /S /Q - deleta diretorio    / rm -rf (nomedapasta) - no linux
+git init
+git add * 
+git commit -m ""
+
+git status
+
+passar pra um repositorio remoto
+git remote add origin "url"
+git push origin master
+
+qndo tem alterações
+git pull origin master - pega arquivo do remoto atualizado
+
+
+git clone "url"
